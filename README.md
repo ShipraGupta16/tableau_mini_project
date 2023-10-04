@@ -1,7 +1,9 @@
 # tableau_mini_project
 
-![Alt text](images/Infant_Mortality.png)
+<p align="center">
+  <img src="images/countries_agriculture.png" alt="images" width="600"/>
+</p>
 
-![Alt text](images/Sheet_2.png)
-
-![Alt text](images/Sheet_3.png)
+<p align="center">
+  <img src="images/sex_literacy.png" alt="images" width="600"/>
+</p>
