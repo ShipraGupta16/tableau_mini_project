@@ -1,7 +1,7 @@
 # tableau_mini_project
 
-![Alt text](Infant Mortality.png)
+![Alt text](images/Infant_Mortality.png)
 
-![Alt text](Sheet 2.png)
+![Alt text](images/Sheet_2.png)
 
-![Alt text](Sheet 3.png)
+![Alt text](images/Sheet_3.png)
